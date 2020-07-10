@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+}
+
+button {
+  background-color: #4caf50;
+  color: white;
+  width: 30%;
+}
+
+input {
+  width: 20%;
+  margin: 20px;
+}
+/*# sourceMappingURL=style.css.map */
